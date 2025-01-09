@@ -53,8 +53,8 @@ Follow these steps to set up the project on your local machine.
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-project-name.git
-cd your-project-name
+git clone https://github.com/martian1231/RecipeRecommender.git
+cd RecipeRecommender
 ```
 
 ### 2. Install Dependencies
